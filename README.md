@@ -2,7 +2,7 @@
 
 # Management Sentiment Analysis
 
-> "Life is a math equation. In order to gain the most, you have to know how to convert negatives into positives" - Anonymous
+> "The market is a voting machine in the short run, but a weighing machine in the long run." - Benjamin Graham
 
 **A comprehensive Python framework for analyzing management sentiment in financial disclosures and its relationship to stock market performance.**
 
@@ -274,19 +274,6 @@ economic_data = corporate_profits.to_frame().assign(
 3. Commit your changes (`git commit -am 'Add new sentiment analysis'`)
 4. Push to the branch (`git push origin feature/new-analysis`)
 5. Create a Pull Request
-
-## Citation
-
-If you use this work in academic research, please cite:
-
-```bibtex
-@software{management_sentiment_analysis,
-  title={Management Sentiment Analysis: A Python Framework for Financial Text Analysis},
-  author={[Your Name]},
-  year={2025},
-  url={https://github.com/yourusername/sentiment-analysis}
-}
-```
 
 ## License
 
